@@ -18,12 +18,12 @@ I'm **Vicky Kumar Singh**, a Full Stack Developer 🚀 from India, currently, I'
 **Languages and Tools:**  
 ***
 
-<code> React </code>
-<code> Redux </code>
-<code> Java </code>
-<code> Spring Boot </code>
-<code> Microservices </code>
-<code> AWS </code>
+<code> React </code> &nbsp; | &nbsp;
+<code> Redux </code>&nbsp; | &nbsp;
+<code> Java </code>&nbsp; | &nbsp;
+<code> Spring Boot </code>&nbsp; | &nbsp;
+<code> Microservices </code>&nbsp; | &nbsp;
+<code> AWS </code>&nbsp; | &nbsp;
 <code> Java Script </code>
 
 ### My aim is to become a Developer Solution Architect.

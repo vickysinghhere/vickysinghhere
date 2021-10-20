@@ -27,5 +27,5 @@ Besides programming, I enjoy writting, I have published a Novel **An Open Confes
 <code> AWS </code>&nbsp; | &nbsp;
 <code> Java Script </code>
 
-### My aim is to become a Developer Solution Architect.
+### My Aim is to become a Developer Solution Architect.
 

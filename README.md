@@ -12,7 +12,7 @@
 I'm **Vicky Kumar Singh**, a Full Stack Developer 🚀 from India, currently, I'm working as a **Software Development Engineer** at **Infogain India PVT LTD**. I love to explore new and upcoming technologies. Besides programming, I enjoy writting, I have published a Novel **An Open Confession**.
 
 - 🌱 I’m currently learning: _```AWS Developer Associate```_.
-- 📫 You can reach me through any of the above **linkedin** handle.
+- 📫 You can reach me through the above **linkedin** handle.
 
 
 **Languages and Tools:**  
@@ -27,15 +27,4 @@ I'm **Vicky Kumar Singh**, a Full Stack Developer 🚀 from India, currently, I'
 <code> Java Script </code>
 
 ### My aim is to become a Developer Solution Architect.
-
-***
-<details>
-<summary>📈 My GitHub Stats(Click here for some fun stats)</summary>
-  </br>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vickysinghhere&show_icons=true&locale=en&layout=compact&theme=gotham" alt="vickysinghhere" /></p>
-  </br>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vickysinghhere&show_icons=true&locale=en&theme=gotham" alt="vickysinghhere" /></p>
-</details>
-
-***
 

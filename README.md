@@ -9,7 +9,7 @@
 </br>
 </br>
 
-I'm **Vicky Kumar Singh**, a Full Stack Developer 🚀 from India, currently, I'm working as a **Software Development Engineer** at **Infogain India PVT LTD**. I love to explore new and upcoming technologies. I'm a greedy geek striving for excellence. Coding is the way I kill time. Full-stack developer.
+I'm **Vicky Kumar Singh**, a Full Stack Developer 🚀 from India, currently, I'm working as a **Senior Software Engineer** at **Paytm**. I love to explore new and upcoming technologies. I'm a greedy geek striving for excellence. Coding is the way I kill time. Full-stack developer.
 Besides programming, I enjoy writting, I have published a Novel **An Open Confession**.
 
 - 🌱 I’m currently learning: _```AWS Developer Associate```_.
